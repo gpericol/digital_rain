@@ -1,4 +1,5 @@
-# Digital Rain But Better [ (´◉◞౪◟◉) < Look at me Ma! I'm Neo! ]
+# Digital Rain But Better
+## [ (´◉◞౪◟◉) < Look at me Ma! I'm Neo! ]
 Another digital rain built for I don't know purposes.
 Designed and built with all the love in the world by Gianluca Pericoli
 
